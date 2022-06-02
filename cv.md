@@ -22,6 +22,6 @@ alert(result);
 ```
 # *Education*
 * Belarusian State University
-  + Faculty of Geography 
+  + *Faculty of Geography*
 # *English*
 ***A2*** (knowledge gained at university and school)
