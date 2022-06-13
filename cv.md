@@ -20,6 +20,8 @@ return a*b;
 let result = mult(3,5);
 alert(result);
 ```
+# *Projects*
+[My first CV](https://nicolas-baranovskiy.github.io/rsschool-cv/)
 # *Education*
 * Belarusian State University
   + *Faculty of Geography*
