@@ -27,8 +27,7 @@ body {
 }
 
 .main {
-    border: 1px solid green;
-    margin-bottom: auto;
+ background-color: #fcf6f2;   
 }
 
 .footer {
@@ -67,7 +66,6 @@ html {
       object-fit: cover;
       width: 250px;
       height: 250px;
-
 }
 
 .section-profile-title {
@@ -87,13 +85,12 @@ html {
 }
 
 .main-title {
-    position: relative;
     font-size: 32px;
     font-weight: 300;
     color: #4a7861;
 }
 
-.main-conteiner {
+.main-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -102,8 +99,8 @@ html {
 .section {
     width: calc(50% - 60px);
     border-bottom: 1px solid grey;
-    padding: 10px;
-    padding-bottom: 35px;
+    padding: 25px;
+    padding-bottom: 25px;
   }
 
 .section-title{
@@ -144,7 +141,7 @@ html {
     background-repeat: no-repeat;
     background-color: white;
 }
-.footer-conteiner {
+.footer-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -153,7 +150,6 @@ html {
 }
 
 .github-nav-link {
-    position: relative;
     padding: 0 12px;
     text-decoration: none;
     font-size: 20px;
@@ -176,7 +172,7 @@ html {
     font-style: italic;
 }
 
-.section-phone {
+.section-data {
     color: #27332a;
 }
 
@@ -185,10 +181,9 @@ html {
     color: #4a7861;
 }
 
-.section-email {
-    color: #27332a;
+.last-sections {
+border-bottom: none;
 }
 
-.section-address {
-    color: #27332a;
-}
+
+
