@@ -21,10 +21,10 @@ let result = mult(3,5);
 alert(result);
 ```
 # *Projects*
-[My first CV](https://nicolas-baranovskiy.github.io/rsschool-cv/)
-[Travel](https://rolling-scopes-school.github.io/nicolas-baranovskiy-JSFEPRESCHOOL2022Q2/travel/)
-[Momentum](https://rolling-scopes-school.github.io/nicolas-baranovskiy-JSFEPRESCHOOL2022Q2/momentum//)
-[Zoo](https://rolling-scopes-school.github.io/nicolas-baranovskiy-JSFE2022Q3/online-zoo/main.html)
+* [My first CV](https://nicolas-baranovskiy.github.io/rsschool-cv/)
+* [Travel](https://rolling-scopes-school.github.io/nicolas-baranovskiy-JSFEPRESCHOOL2022Q2/travel/)
+* [Momentum](https://rolling-scopes-school.github.io/nicolas-baranovskiy-JSFEPRESCHOOL2022Q2/momentum//)
+* [Zoo](https://rolling-scopes-school.github.io/nicolas-baranovskiy-JSFE2022Q3/online-zoo/main.html)
 # *Education*
 * Belarusian State University
   + *Faculty of Geography*
