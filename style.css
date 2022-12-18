@@ -162,6 +162,12 @@ html {
     color: #27332a;
     font-size: 18px;
     font-weight: 700;
+    transition: 0.5s;
+}
+
+.project-link:hover {
+    color: rgb(148, 148, 255);
+    text-decoration: underline;
 }
 
 .weight {
