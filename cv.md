@@ -10,7 +10,7 @@ I have higher education. I want to try myself in a new field. Goal-oriented, rea
 # *Skills*
 * JavaScript (Basic)
 # *Experience*
-I plan to gain experience and skills in this course
+I have successfully completed the preparatory course Pre-Scholl 2022Q2. I plan to multiply experience and skills in this course.
 # *Code Example*
 ```
 function mult(a,b) {
@@ -22,6 +22,9 @@ alert(result);
 ```
 # *Projects*
 [My first CV](https://nicolas-baranovskiy.github.io/rsschool-cv/)
+[Travel](https://rolling-scopes-school.github.io/nicolas-baranovskiy-JSFEPRESCHOOL2022Q2/travel/)
+[Momentum](https://rolling-scopes-school.github.io/nicolas-baranovskiy-JSFEPRESCHOOL2022Q2/momentum//)
+[Zoo](https://rolling-scopes-school.github.io/nicolas-baranovskiy-JSFE2022Q3/online-zoo/main.html)
 # *Education*
 * Belarusian State University
   + *Faculty of Geography*
